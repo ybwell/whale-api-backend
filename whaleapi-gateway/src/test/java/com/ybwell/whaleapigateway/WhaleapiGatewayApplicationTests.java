@@ -1,0 +1,13 @@
+package com.ybwell.whaleapigateway;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class WhaleapiGatewayApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
